@@ -1,1 +1,1 @@
-# example_cypress
+# Example of railflow-cypress-junit-reporter usage 
