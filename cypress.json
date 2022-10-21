@@ -1,8 +1,0 @@
-{
-  "reporter": "railflow-cypress-junit-reporter",
-  "reporterOptions": {
-    "mochaFile": "cypress/results/test-results-[hash].xml",
-    "attachments": true
-  },
-  "video": false
-}
